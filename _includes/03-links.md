@@ -1,1 +1,1 @@
-https://ashihipar.github.io/github-slideshow/
+[My site](https://ashihipar.github.io/github-slideshow/)
